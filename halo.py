@@ -1,0 +1,1 @@
+print("Hallo World, This my first Journey at Informatica Degree")
