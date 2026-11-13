@@ -18,9 +18,9 @@ public class ceknilai {
         System.out.println("Mahasiswa: " + nama);
 
         if (nilai >= 75) {
-            System.out.println("Status: SELAMAT, KAMU LULUS!");
+            System.out.println("Status: SELAMAT, KAMU LULUS!.");
         } else {
-            System.out.println("Status: MAAF, KAMU HARUS MENGULANG.");
+            System.out.println("Status: MAAF, KAMU HARUS MENGULANG!.");
         }
         input.close();
     }
