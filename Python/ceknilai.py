@@ -7,6 +7,6 @@ print("-" * 30)
 print(f"Mahasiswa: {nama}")
 
 if nilai >= 75:
-    print("Status: SELAMAT, KAMU LULUS!")
+    print("Status: SELAMAT, KAMU LULUS!.")
 else:
-    print("Status: MAAF, KAMU HARUS MENGULANG!")
+    print("Status: MAAF, KAMU HARUS MENGULANG!.")
