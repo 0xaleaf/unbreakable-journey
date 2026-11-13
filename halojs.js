@@ -1,1 +1,1 @@
-console.log("Halo dari JavaScript!");
+console.log("Halo JavaScript!");
